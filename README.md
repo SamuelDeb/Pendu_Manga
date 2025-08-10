@@ -8,7 +8,7 @@ Le Pendu Manga est une application web interactive qui propose de deviner des no
 
 ## ✨ Fonctionnalités
 
-- **Thématique Manga** : Plus de 60 noms de mangas populaires à deviner
+- **Thématique Manga** : Plus de 60 noms de mangas populaires à deviner, liste obtenu sur https://www.senscritique.com/top/resultats/les_meilleurs_mangas/192836
 - **Gestion des espaces** : Support complet des noms avec espaces (ex: "dragon ball", "fairy tail")
 - **Interface intuitive** : Clavier virtuel avec boutons désactivés après utilisation
 - **Feedback visuel** : Images du pendu qui évoluent selon les erreurs
