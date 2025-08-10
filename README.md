@@ -14,7 +14,6 @@ Le Pendu Manga est une application web interactive qui propose de deviner des no
 - **Feedback visuel** : Images du pendu qui évoluent selon les erreurs
 - **Compteur d'erreurs** : Suivi en temps réel du nombre d'erreurs
 - **Nouvelle partie** : Bouton pour recommencer à tout moment
-- **Design responsive** : Interface adaptée à tous les écrans
 
 ## 🎯 Comment jouer
 
